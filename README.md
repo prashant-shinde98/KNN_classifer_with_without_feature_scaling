@@ -6,11 +6,10 @@ Social_Net_class.csv: The dataset used for training and evaluation.
 
 ## Requirements
 To run this project, you need the following Python packages:
-
-pandas
-scikit-learn
-matplotlib
-seaborn
+-pandas
+-scikit-learn
+-matplotlib
+-seaborn
 
 ## Dataset Description
 The dataset includes the following columns:
@@ -35,5 +34,5 @@ The dataset includes the following columns:
 
 ## Results
 Model	Accuracy	Confusion Matrix
-Without Scaling	~81.7%	[[69, 4], [18, 29]]
-With Feature Scaling	~91.7%	[[68, 5], [5, 42]]
+- Without Scaling	~81.7%	[[69, 4], [18, 29]]
+- With Feature Scaling	~91.7%	[[68, 5], [5, 42]]
